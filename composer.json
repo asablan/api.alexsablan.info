@@ -1,0 +1,9 @@
+{
+  "name": "alexsablan/trackit-api",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {}
+}
